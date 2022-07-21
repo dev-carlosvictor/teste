@@ -19,7 +19,6 @@ export default {
     News,
     Articles,
     Footer,
-    
   }
 }
 </script>
